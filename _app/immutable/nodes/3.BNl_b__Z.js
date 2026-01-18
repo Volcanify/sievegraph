@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/CsMcPXeT.js";import{f as r,a}from"../chunks/BeGZV-7f.js";var t=r("<p>About page. Work in progress.</p>");function i(o){var p=t();a(o,p)}export{i as component};
